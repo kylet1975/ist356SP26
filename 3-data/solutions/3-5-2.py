@@ -19,17 +19,3 @@ import pandas as pd
 
 url = "https://raw.githubusercontent.com/mafudge/datasets/refs/heads/master/exam-scores/exam-scores.csv"
 
-st.title('Exam Scores Pivot Table')
-
-cols = ['Class_Section', 'Exam_Version', 'Made_Own_Study_Guide', 'Did_Exam_Prep Assignment', 'Studied_In_Groups','Letter_Grade']
-measures = ['Completion_Time','Student_Score']
-exams = pd.read_csv(url)
-
-
-row = st.selectbox('Select a row', cols) # row selection
-cols.remove(row) # remove the selected row from the list of columns to avoid duplication
-col = st.selectbox('Select a column', cols) # column selection
-value = st.selectbox('Display the Average', measures)
-
-pivot_df = exams.pivot_table(index=row, columns=col, values=value, aggfunc='mean')
-st.dataframe(pivot_df)
