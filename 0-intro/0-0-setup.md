@@ -98,6 +98,7 @@ Do not download the latest recommended Python 3 version. For maximum stability a
 
 Run the installer (make sure to check “Add Python to PATH”)
 
+![Add to PATH](pythoninstall.png)
 
 See Resources for Setup on Blackboard for more details. I strongly recommend you review. 
 
