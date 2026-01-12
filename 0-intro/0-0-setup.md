@@ -93,8 +93,11 @@ This is a free editor with testing and debugging capabilities. As you install yo
 2. **Git Source Code Manager**: https://git-scm.com/download/  
 As you set it up, you will be asked several questions, for which the default selection is fine. EXCEPTION: choose Visual Studio Code as the default editor. 
 
-3. **Python 3**: https://www.python.org/downloads/  
-Do not download the latest recommended Python 3 version. For maximum stability and compatability with other code, you'll want to download the Download the highest security release. As of Fall 2024, that's Python 3.11. Here is the direct link https://www.python.org/downloads/release/python-3110/
+3. **Python 3**: 
+Do not download the latest recommended Python 3 version. For maximum stability and compatability with other code, you'll want to download the download the highest security release. As of Fall 2024, that's Python 3.11. Here is the direct link https://www.python.org/downloads/release/python-3110/
+
+Run the installer (make sure to check “Add Python to PATH”)
+
 
 See Resources for Setup on Blackboard for more details. I strongly recommend you review. 
 
