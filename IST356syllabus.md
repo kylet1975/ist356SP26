@@ -189,11 +189,11 @@ Syracuse University has a variety of other policies designed to guarantee that s
 | Week | Monday Class | Wednesday Class | Assignment Due|
 |-----|-----|-----|-----|
 | 1 | 1/12 | 1/14 | 1/18 |
-|   | Course Introduction | Python 1-1 |  |
+|   | Course Introduction | Class Setup |  |
 | 2 | 1/19 | 1/21 | 1/25 |
-|   | No Class: MLK Day | Python 1-2 | Assignment 1 (A1) |
+|   | No Class: MLK Day | Python 1- 1 and 2 | Practice |
 | 3 | 1/26 | 1/28 | 2/1 |
-|   | Python 1-3 | Python 1-4 | Practice |
+|   | Python 1-3 | Python 1-4 | Assignment 1 (A1) |
 | 4 | 2/2 | 2/4 | 2/8 |
 |   | UI 2.1 | UI 2.2 | Assignment 2 (A2) |
 | 5 | 2/9 | 2/11 | 2/15 |
