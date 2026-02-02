@@ -1,0 +1,24 @@
+1. Open your Terminal in VS Code: menu => Terminal => New Terminal 
+2. In the terminal, enter the command: `git fetch --all` to download the latest updates. 
+3. Next in the terminal, enter the command: `git reset --hard origin/main` to merge the changes
+ into your local repository and force your working directory to match the update.
+ 
+  ### Requirements The packages necessary to run the code here are found in `requirements.txt` install using `pip` or `uv`as follows: 
+  1. From VS Code, open a terminal: menu => Terminal => New Terminal 
+  2. In the terminal, enter `uv pip install -r requirements.txt` 
+  3. Alternatively `uv pip install --system -r requirements.txt`pip install -r requirements.txt
+
+
+
+  pip install -r requirements.txt
+
+
+  pip list - Packeges?
+
+
+pytest tests/test_assignment.py::test_gpa
+- Testing just one of the
+
+
+Commiting
+- one at a time is easiest
